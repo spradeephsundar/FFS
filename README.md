@@ -11,9 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
     US bike-sharing provider "BoomBikes" would like to come up with a mindful business plan, to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state
-- What is the business probem that your project is trying to solve?
     The idea is to create a model that predicts the demand for shared bikes, using the available independent variables. This model will be used by the management to understand how exactly the demands vary with different features. Based on this understanding, the business team can manipulate the business strategy to meet the demand levels and meet the customer's expectations. 
 - What is the dataset that is being used?
     The dataset (a csv file) has been provided for this exercise
